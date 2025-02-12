@@ -2,3 +2,7 @@ docker run -d -p 3000:8080 -v ollama:/root/.ollama -v open-webui:/app/backend/da
 
 
 ollama run deepseek-r1:1.5b
+
+https://ollama.com/download/OllamaSetup.exe
+
+https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe
